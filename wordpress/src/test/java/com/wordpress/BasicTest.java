@@ -19,6 +19,7 @@ public class BasicTest {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.elementToBeClickable(By.className("search-field")));
 		driver.findElement(By.linkText("Log in")).click();;
+		driver.quit();
 		
 	
 		

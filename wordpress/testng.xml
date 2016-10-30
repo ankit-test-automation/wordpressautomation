@@ -4,8 +4,6 @@
   <test name="Test">
     <classes>
       <class name="com.wordpress.BasicTest"/>
-      <class name="com.wordpress.AppTest"/>
-      <class name="com.wordpress.GoogleTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

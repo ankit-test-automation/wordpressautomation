@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10696" started-at="2016-10-30T09:07:58Z" finished-at="2016-10-30T09:08:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10696" started-at="2016-10-30T09:07:58Z" finished-at="2016-10-30T09:08:08Z">
+      <class name="com.wordpress.BasicTest">
+        <test-method status="PASS" signature="testlaunchgoogle()[pri:0, instance:com.wordpress.BasicTest@8bd1b6a]" name="testlaunchgoogle" duration-ms="10680" started-at="2016-10-30T14:37:58Z" finished-at="2016-10-30T14:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlaunchgoogle -->
+      </class> <!-- com.wordpress.BasicTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
